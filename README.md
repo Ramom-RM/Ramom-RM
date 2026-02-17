@@ -1,48 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ramom-RM/Ramom-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Ramom-Dev
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Olá, eu sou o Ramom-Dev
-
-💻 Desenvolvedor com foco em BACKEND
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;PHP+%7C+Laravel;Sempre+evoluindo+🚀" />
 
 ---
 
-## 🚀 Stack
+### 🚀 Tecnologias
 
-🐘 PHP  
-⚡ Laravel  
-🧠 JavaScript  
-🎨 HTML & CSS  
-
----
-
-## 🎯 Objetivo
-
-Evoluir cada vez mais como desenvolvedor backend, criando aplicações eficientes, escaláveis e bem estruturadas.
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ---
 
-## 🌐 Conecte-se comigo
+### 🎯 Foco
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramom-r-martins-97ba14211/)
+💻 Desenvolvimento Backend  
+⚡ APIs REST  
+🧠 Boas práticas e código limpo  
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Conecte-se comigo
 
-![Ramom GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramom-RM&show_icons=true&theme=transparent)
+<a href="https://www.linkedin.com/in/ramom-r-martins-97ba14211/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramom-RM&layout=compact&theme=transparent)
+---
+
+### 📊 GitHub Stats
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ramom-RM&show_icons=true&theme=transparent"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramom-RM&layout=compact&theme=transparent"/>
+
+---
+
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=Ramom-RM&theme=transparent" />
+
+</div>
